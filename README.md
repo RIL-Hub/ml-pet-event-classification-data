@@ -1,6 +1,7 @@
 # ml-pet-event-classification-data
 
 The data is structured in sets of four rows of length 21, where each row has data (space-delimited):
+
 x1c, y1c, z1c, x1p, y1p, z1p, x2c, y2c, z2c, x2p, y2p, z2p, e1c, e1p, e2c, e2p, theta1_pos, theta2_pos, theta1_e, theta2_e, deltaPhi, label
  
 Here, 1 means gamma1, 2 means gamma2, c means Compton, p means photoelectric absorption, and e means energy. 
